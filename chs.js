@@ -200,7 +200,7 @@ var cnItems = {
     "Create a superb wig": "制作一流的假发",
     "News: Wigs are flavor of the month": "新闻：假发是本月的味道",
     "Things are starting to get a bit hectic": "事情开始变得有点紧张",
-    "": "",
+    "No need for dullness": "不需要闷闷不乐",
     "": "",
     "": "",
     "": "",
