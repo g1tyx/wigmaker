@@ -347,7 +347,7 @@ var cnItems = {
     "Trend: Brazilian part 2": "潮流：巴西第 2 部分",
     "Vegan-friendly wigs": "素食主义者友好的假发",
     "Wigs made from all natural algae fibres.": "由所有天然藻类纤维制成的假发。",
-    "": "",
+    "Go natural with plant-based wigs (": "选择天然植物假发(",
     "": "",
     "": "",
     "": "",
