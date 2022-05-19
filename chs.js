@@ -392,7 +392,7 @@ var cnItems = {
     "End": "通关",
     "Establishing interface": "建立接口",
     "The hat makers are gone.": "帽子制造商走了。",
-    "": "",
+    "Create an admirable wig": "制作一个令人钦佩的假发",
     "": "",
     "": "",
     "": "",
