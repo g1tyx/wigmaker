@@ -630,8 +630,8 @@ var cnExcludePostfix = [
 var cnRegReplace = new Map([
     [/^([\d\.]+) hours ([\d\.]+) minutes ([\d\.]+) seconds$/, '$1 小时 $2 分钟 $3 秒'],
     [/^You are gaining (.+) elves per second$/, '你每秒获得 $1 精灵'],
-    [/^([\d\.,]+) Grid \((.+)$/, '$1 格 （$1'],
-    [/^([\d\.,]+) Wind \((.+)$/, '$1 风能（$1'],
+    [/^([\d\.,]+) Grid \((.+)$/, '$1 格 （$2'],
+    [/^([\d\.,]+) Wind \((.+)$/, '$1 风能（$2'],
     [/^([\d\.,]+)\% efficiency$/, '$1\% 有效'],
     [/^([\d\.,]+)\% per ([\d\.,]+) fabs \(([\d\.,]+) micro$/, '每 $2 晶圆厂 $1\%（$3 微'],
     [/^(.+) micro$/, '$1 微型'],
